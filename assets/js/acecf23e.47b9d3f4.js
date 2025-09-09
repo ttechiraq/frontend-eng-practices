@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrontend_eng_practices=self.webpackChunkfrontend_eng_practices||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/frontend-eng-practices/blog","blogTitle":"Blog","authorsListPath":"/frontend-eng-practices/blog/authors"}')}}]);
