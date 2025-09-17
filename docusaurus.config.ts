@@ -54,13 +54,11 @@ const config: Config = {
   plugins: [],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Frontend Engineering Practices",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
     },
     footer: {
