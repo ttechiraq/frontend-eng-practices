@@ -40,32 +40,18 @@ const config: Config = {
       "classic",
       {
         docs: {
+          routeBasePath: "/",
           sidebarPath: "./sidebars.ts",
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: false,
-        theme: {
-          customCss: "./src/css/custom.css",
-        },
+        theme: { customCss: "./src/css/custom.css" },
       } satisfies Preset.Options,
     ],
   ],
 
-  plugins: [
-    [
-      "@easyops-cn/docusaurus-search-local",
-      {
-        docsRouteBasePath: "/docs",
-        hashed: true,
-        language: ["en"],
-        highlightSearchTermsOnTargetPage: true,
-        indexDocs: true,
-        indexBlog: false,
-        indexPages: false,
-      },
-    ],
-  ],
+  plugins: [],
 
   themeConfig: {
     // Replace with your project's social card
