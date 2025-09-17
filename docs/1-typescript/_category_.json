@@ -1,0 +1,8 @@
+{
+  "label": "Typescript",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This TypeScript Engineering Guide serves as a comprehensive reference for development teams building production applications with TypeScript. It covers essential patterns, configuration strategies, and architectural decisions necessary for maintaining large-scale TypeScript codebases. "
+  }
+}
