@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Language features
 
 This section delineates which features may or may not be used, and any additional constraints on their use.
