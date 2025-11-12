@@ -1,0 +1,9 @@
+{
+  "label": "Git",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Best practices and guidelines for using Git in frontend development workflows."
+  }
+}
+
