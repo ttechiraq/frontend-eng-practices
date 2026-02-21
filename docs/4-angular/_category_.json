@@ -1,0 +1,8 @@
+{
+  "label": "Angular",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Comprehensive Angular 19 documentation covering components, signals, templates, DI, routing, forms, HTTP, SSR, testing, and performance."
+  }
+}
