@@ -3,7 +3,7 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Comprehensive React documentation covering core concepts like components, JSX, rendering, interactivity, state, and hooks."
+    "description": "Comprehensive React 19 documentation covering components, JSX, state, hooks, conditional rendering, lists, forms, routing, state management, performance, testing, server components, and best practices."
   }
 }
 
