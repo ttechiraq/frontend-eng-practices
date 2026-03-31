@@ -1,0 +1,9 @@
+{
+  "label": "React",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Comprehensive React documentation covering core concepts like components, JSX, rendering, interactivity, state, and hooks."
+  }
+}
+
